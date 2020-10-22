@@ -1,6 +1,54 @@
 # Technical Test - BIGIO.id - Backend 😸
 
 ## 1) Soal 13 - Palindrome ✅
+
+Example Test Case
+```
+- Test Case 1 -
+
+Input:
+phobia
+
+Output:
+phobiaibohp
+
+- Test Case 2 -
+
+Input:
+Halim
+
+Output:
+HalimilaH
+
+```
+Answer with JavaScript
+```
+const palindrome = () => {
+  let word = ''
+  let palindrome = ''
+
+  while (true) {
+    const input = prompt("Masukkan Nilai:")
+
+    if (input == -1) {
+      break
+    }
+
+    word += input
+
+    if (word.length > 1) {
+      for (let i = word.length-2; i >= 0; i--) {
+        palindrome += word[i]
+      }
+    }
+
+    console.log('Output: ' + word + palindrome)
+    palindrome = ''
+  }
+}
+
+palindrome()
+```
 link: https://repl.it/@oxwazz/Soal13-Palindrome
 
 ## 2) Soal 14 - Hourglass ✅
