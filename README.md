@@ -218,8 +218,8 @@ link: https://repl.it/@oxwazz/Soal15-butterfly
 ### Endpoint :mailbox_with_mail:
 <h4>Komoditas Endpoint</h4>
 
-* `GET /komoditas?accept` - Read All Komoditas
 * `POST /komoditas` - Create Komoditas
+* `GET /komoditas?accept` - Read All Komoditas
 * `PUT /komoditas/:id` - Update Komoditas
 * `DELETE /komoditas:id` - Delete Komoditas
 
