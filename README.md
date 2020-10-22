@@ -17,26 +17,26 @@ link: https://repl.it/@oxwazz/Soal15-butterfly
 ### Stack Tech :gear:
 
 <h4>Back-end</h4>
-- RESTful API Using Expressjs and PostgreSQL
+- RESTful API Using Express.js and PostgreSQL
 
 <h4>Front-end</h4>
 - Bootstrap
-- Vue.js, Axios
+- Vue.js, Axios, VueRouter
 
 ### Entity Relationship Diagram (ERD) :triangular_ruler:
-<img src="../src/Project 2 - Bus Scheduling.svg" width="350">
+<img src="/5 - Soal 17 - Aplikasi Web Survey Harga/0 other/ERD - Aplikasi Web Survey Harga.svg" width="700">
 
 ### Endpoint :mailbox_with_mail:
+<h4>Komoditas Endpoint</h4>
 
-<h4>Bus Endpoint</h4>
+* `GET /komoditas?accept` - Read All Komoditas
+* `POST /komoditas ` - Create Komoditas
+* `PUT /komoditas/:id ` - Update Komoditas
+* `DELETE /komoditas:id ` - Delete Komoditas
 
-* `POST /bus/photo/:id/` - Upload Bus Photo With ID
-* `DELETE /bus/photo/:id/` - Delete Bus Photo With ID
-* `GET /bus/photo/:name/` - View Bus Image With Bus Name
-* `GET /bus/` - Read All Bus
-* `POST /bus/` - Create Bus
-* `PUT /bus/:id/` - Update Existing Bus With ID
-* `DELETE /bus/:id/` - Delete Single Bus With ID
+<h4>User Endpoint</h4>
+
+* `POST /login` - Login User
 
 ### Screenshot :camera:
 
