@@ -206,11 +206,11 @@ link: https://repl.it/@oxwazz/Soal15-butterfly
 ### Stack Tech :gear:
 
 <h4>Back-end</h4>
-- RESTful API Using Express.js and PostgreSQL
+- [x] RESTful API Using Express.js and PostgreSQL
 
 <h4>Front-end</h4>
-- Bootstrap
-- Vue.js, Axios, VueRouter
+- [x] Bootstrap
+- [x] Vue.js, Axios, Vue Router
 
 ### Entity Relationship Diagram (ERD) :triangular_ruler:
 <img src="/5 - Soal 17 - Aplikasi Web Survey Harga/0 other/ERD - Aplikasi Web Survey Harga.svg" width="600">
