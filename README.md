@@ -215,7 +215,7 @@ link: https://repl.it/@oxwazz/Soal15-butterfly
 ### Entity Relationship Diagram (ERD) :triangular_ruler:
 <img src="/5 - Soal 17 - Aplikasi Web Survey Harga/0 other/ERD - Aplikasi Web Survey Harga.svg" width="600">
 
-### Endpoint :mailbox_with_mail:
+### API Endpoint :mailbox_with_mail:
 <h4>Komoditas Endpoint</h4>
 
 * `POST /komoditas` - Create Komoditas
