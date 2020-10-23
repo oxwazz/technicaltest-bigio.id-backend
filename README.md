@@ -206,9 +206,11 @@ link: https://repl.it/@oxwazz/Soal15-butterfly
 ### Stack Tech :gear:
 
 <h4>Back-end</h4>
+
 - [x] RESTful API Using Express.js and PostgreSQL
 
 <h4>Front-end</h4>
+
 - [x] Bootstrap
 - [x] Vue.js, Axios, Vue Router
 
