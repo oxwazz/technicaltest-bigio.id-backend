@@ -22,7 +22,7 @@ HalimilaH
 ```
 
 Answer with JavaScript
-```
+```javascript
 const palindrome = () => {
   let word = ''
   let palindrome = ''
@@ -88,7 +88,7 @@ Output:
 ```
 
 Answer with JavaScript
-```
+```javascript
 const hourglass = (num) => {
   let space = 0
   for (let i = num; i > 0; i-- ) {
@@ -143,7 +143,7 @@ Output:
 ```
 
 Answer with JavaScript
-```
+```javascript
 const butterfly = (num) => {
   let word = ''
   let space = 0
