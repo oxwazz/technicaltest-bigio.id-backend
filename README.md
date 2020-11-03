@@ -1,4 +1,4 @@
-# Technical Test - BIGIO.id - Backend 😸
+<img src="./other/BG - header.gif">
 
 ## 1) Soal 13 - Palindrome ✅
 
